@@ -1,3 +1,5 @@
+<img src="https://asmaasallam22.github.io/profile.jpg" alt="Asmaa Sallam" width="120" align="right">
+
 # Hi, I'm Asmaa 👋
 
 **DevOps Team Lead**
