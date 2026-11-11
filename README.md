@@ -50,6 +50,32 @@ I build cloud platforms and the pipelines that ship to them, so releases are saf
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
+### 💬 What colleagues say
+
+> “As a team lead, she leads with clarity and care… When tasks are vague, she covers all the bases and turns ambiguity into a clear plan.”
+> — **Mahmoud Haytham**, teammate
+
+> “One of the most dedicated engineers I’ve worked with… she combines strong technical expertise with excellent communication and leadership skills.”
+> — **Mohamed Sherif**, reported to Asmaa
+
+> “Her dedication and ownership are exceptional, and she always provides out-of-the-box solutions and ideas.”
+> — **Mohamed AbdelHak**, Asmaa’s manager
+
+> “She has a critical way of thinking and always finds creative solutions for very complex problems. Her ability to stay calm under pressure… is impressive.”
+> — **Hassan El Sokkary**, colleague
+
+> “One of the most dedicated, reliable, and talented professionals I’ve come across. Asmaa brings an incredible energy to every task she takes on.”
+> — **Ahmed Abd El-Aziz**, teammate
+
+> “She consistently delivers clear, well-structured handovers that make collaboration smooth and efficient… Her professionalism and commitment set a great example.”
+> — **Adel Hashem**, teammate
+
+> “Smart, hardworking and always ready to support others. She has a good understanding of DevOps tools and works really well in a team.”
+> — **Hagar Mohamed**, studied together
+
+> “A dedicated and reliable team member who consistently delivers high-quality work and supports her colleagues with a positive attitude.”
+> — **Ammar ElSadat**, teammate
+
 ### ✍️ I write
 
 I share short DevOps and cloud tips on [LinkedIn](https://www.linkedin.com/in/asmaa-sallam/) in Arabic and English: IAM, CI/CD, environments, troubleshooting stories, and how I use AI in my daily work.
