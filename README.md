@@ -10,11 +10,24 @@ I build cloud platforms and the pipelines that ship to them, so releases are saf
 
 ### 🏅 Certifications
 
-- **AWS Certified Solutions Architect**: Amazon Web Services, 2025
-- **Google Cloud Associate Cloud Engineer**: Google, 2025
+Click a badge to verify it on Credly.
+
+<p>
+<a href="https://www.credly.com/badges/6bcb590e-3b79-45f3-84f5-0da61590364e/public_url" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="90"></a>
+<a href="https://www.credly.com/badges/aeca39f7-6225-4f0c-bd70-8074c7f44afc/public_url" title="Associate Cloud Engineer"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/linkedin_thumb_image.png" alt="Associate Cloud Engineer" width="90"></a>
+<a href="https://www.credly.com/badges/28136a1a-7228-45c9-8c98-bd7f48836688/public_url" title="Build Infrastructure with Terraform on Google Cloud"><img src="https://images.credly.com/images/b18154fb-9bd3-47e5-a6f1-554be512947d/linkedin_thumb_image.png" alt="Build Infrastructure with Terraform on Google Cloud" width="90"></a>
+<a href="https://www.credly.com/badges/18781274-4ac0-4bf7-8cb2-01831fb8a156/public_url" title="Build a Secure Google Cloud Network"><img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/linkedin_thumb_image.png" alt="Build a Secure Google Cloud Network" width="90"></a>
+<a href="https://www.credly.com/badges/ee79dc2b-7440-459f-b28c-4e693afef179/public_url" title="Develop Your Google Cloud Network"><img src="https://images.credly.com/images/b126c61c-4781-4f03-9b2b-062963003abf/linkedin_thumb_image.png" alt="Develop Your Google Cloud Network" width="90"></a>
+<a href="https://www.credly.com/badges/2fa240ed-03a2-43db-802e-46f3bcc43450/public_url" title="Implement Cloud Security Fundamentals on Google Cloud"><img src="https://images.credly.com/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/linkedin_thumb_image.png" alt="Implement Cloud Security Fundamentals on Google Cloud" width="90"></a>
+<a href="https://www.credly.com/badges/e112a415-68bb-4436-98e9-7c76811f8c4a/public_url" title="Implement Load Balancing on Compute Engine"><img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/linkedin_thumb_image.png" alt="Implement Load Balancing on Compute Engine" width="90"></a>
+<a href="https://www.credly.com/badges/eeeb74d4-c900-4c2c-9e0a-daf59f15b4e7/public_url" title="Set Up an App Dev Environment on Google Cloud"><img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/linkedin_thumb_image.png" alt="Set Up an App Dev Environment on Google Cloud" width="90"></a>
+</p>
+
 - **CKA: Certified Kubernetes Administrator**: The Linux Foundation, 2026
-- **HIPAA Associate**: HIPAA Training, 2026
-- 6 Google Cloud skill badges: Terraform, secure networking, load balancing, cloud security and more
+- **Google Cloud Associate Cloud Engineer**: Google Cloud, 2025
+- **AWS Certified Solutions Architect**: Amazon Web Services, 2025
+- **GIAC HIPAA Security Implementation** and **HIPAA Associate**: HIPAA Training, 2026
+- 6 Google Cloud skill badges: Terraform, secure networking, network development, security, load balancing, app dev environment
 
 ### 🛠️ What I've built
 
