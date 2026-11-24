@@ -15,7 +15,7 @@ I build cloud platforms and the pipelines that ship to them, so releases are saf
 Click a badge to verify it.
 
 <p>
-<a href="https://aws.amazon.com/verification" title="AWS validation number: e51241f2be184025907bbfd2efdc3a34"><img src="https://asmaasallam22.github.io/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="54"></a>
+<a href="https://aws.amazon.com/verification" title="AWS validation number: e51241f2be184025907bbfd2efdc3a34"><img src="https://asmaasallam22.github.io/aws-saa.png" alt="AWS Certified Solutions Architect – Associate" width="46"></a>
 <a href="https://www.credly.com/badges/6bcb590e-3b79-45f3-84f5-0da61590364e/public_url" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="90"></a>
 <a href="https://www.credly.com/badges/aeca39f7-6225-4f0c-bd70-8074c7f44afc/public_url" title="Associate Cloud Engineer"><img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/linkedin_thumb_image.png" alt="Associate Cloud Engineer" width="90"></a>
 <a href="https://www.credly.com/badges/28136a1a-7228-45c9-8c98-bd7f48836688/public_url" title="Build Infrastructure with Terraform on Google Cloud"><img src="https://images.credly.com/images/b18154fb-9bd3-47e5-a6f1-554be512947d/linkedin_thumb_image.png" alt="Build Infrastructure with Terraform on Google Cloud" width="90"></a>
