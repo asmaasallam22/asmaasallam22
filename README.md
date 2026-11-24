@@ -27,7 +27,7 @@ Click a badge to verify it on Credly.
 
 - **CKA: Certified Kubernetes Administrator**: The Linux Foundation, 2026
 - **Google Cloud Associate Cloud Engineer**: Google Cloud, 2025
-- **AWS Certified Solutions Architect**: Amazon Web Services, 2025
+- **AWS Certified Solutions Architect – Associate**: Amazon Web Services, 2025 · [verify](https://aws.amazon.com/verification) with validation no. `e51241f2be184025907bbfd2efdc3a34`
 - **GIAC HIPAA Security Implementation** and **HIPAA Associate**: HIPAA Training, 2026
 - 6 Google Cloud skill badges: Terraform, secure networking, network development, security, load balancing, app dev environment
 
