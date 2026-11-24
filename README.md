@@ -10,6 +10,22 @@ I build cloud platforms and the pipelines that ship to them, so releases are saf
 
 ---
 
+### 🧰 Tech
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-EE0000?logo=redhat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+
 ### 🏅 Certifications
 
 Click a badge to verify it.
@@ -49,22 +65,6 @@ Click a badge to verify it.
 - **Secure upload portal**: serverless, code-protected file intake straight into a private S3 bucket.
 - **IAM automation**: scripts for onboarding, access grants, key rotation, offboarding and audits across AWS accounts.
 - **Disaster recovery**: designed and built a service at a DR site, from network topology to app deployment.
-
-### 🧰 Tech
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-EE0000?logo=redhat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
 ### 💬 What colleagues say
 
