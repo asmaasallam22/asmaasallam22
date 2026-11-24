@@ -58,12 +58,14 @@ Click a badge to verify it.
 <a href="https://www.credly.com/badges/2fa240ed-03a2-43db-802e-46f3bcc43450/public_url" title="Implement Cloud Security Fundamentals on Google Cloud"><img src="https://images.credly.com/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/linkedin_thumb_image.png" alt="Implement Cloud Security Fundamentals on Google Cloud" width="90"></a>
 <a href="https://www.credly.com/badges/e112a415-68bb-4436-98e9-7c76811f8c4a/public_url" title="Implement Load Balancing on Compute Engine"><img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/linkedin_thumb_image.png" alt="Implement Load Balancing on Compute Engine" width="90"></a>
 <a href="https://www.credly.com/badges/eeeb74d4-c900-4c2c-9e0a-daf59f15b4e7/public_url" title="Set Up an App Dev Environment on Google Cloud"><img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/linkedin_thumb_image.png" alt="Set Up an App Dev Environment on Google Cloud" width="90"></a>
+<a href="https://asmaasallam22.github.io/certs/hipaa-security.jpg" title="HIPAA Security"><img src="https://asmaasallam22.github.io/certs/hipaa-security.jpg" alt="HIPAA Security" width="64"></a>
+<a href="https://asmaasallam22.github.io/certs/hipaa-business-associates.jpg" title="HIPAA Awareness for Business Associates"><img src="https://asmaasallam22.github.io/certs/hipaa-business-associates.jpg" alt="HIPAA Awareness for Business Associates" width="64"></a>
 </p>
 
 - **CKA: Certified Kubernetes Administrator**: The Linux Foundation, 2026
 - **Google Cloud Associate Cloud Engineer**: Google Cloud, 2025
 - **AWS Certified Solutions Architect – Associate**: Amazon Web Services, 2025
-- **GIAC HIPAA Security Implementation** and **HIPAA Associate**: HIPAA Training, 2026
+- **HIPAA Security** and **HIPAA Awareness for Business Associates**: HIPAATraining.com, 2026
 - 6 Google Cloud skill badges: Terraform, secure networking, network development, security, load balancing, app dev environment
 
 ### 🛠️ What I've built
